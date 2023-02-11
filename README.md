@@ -16,11 +16,8 @@ After grid searches Random Forest yielded the best results. All models were pron
 |Model| Train Accuracy |Test Accuracy|
 |---|---|---|
 |kNN |0.994 |0.531|
-
 |Naive Bayes |0.843 |0.741|
-
 |Logistic Regression |0.888 |0.762|
-
 |Random Forest |0.784 |0.767|
 
 ### Results
